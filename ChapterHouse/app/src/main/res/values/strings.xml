@@ -5,4 +5,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <array name="navigation_titles">
+        <item>Chapter</item>
+        <item>Forums</item>
+        <item>Events</item>
+        <item>Members</item>
+        <item>Payments</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login</string>
+
 </resources>
